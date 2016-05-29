@@ -38,7 +38,7 @@ issue.
 
 *  This branch uses the latest fontconfig release and not the one included in Slackware.
 *  At this moment these SlackBuilds are from and for **slackware64-current**, but they also
-   work with **slackware-current** also.
+   work with **slackware-current**.
 *  I tried to make the minimal modificactions to the originals Slackbuilds.
 *  There is not need to select a type of font rendering (Windows, Apple or Ubuntu)
    since the *"aim of infinality-bundle is to make use of the vast potential hidden
