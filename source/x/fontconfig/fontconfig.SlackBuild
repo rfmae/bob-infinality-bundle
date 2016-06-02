@@ -196,6 +196,7 @@ if [ -d $PKG/usr/man ]; then
 fi
 
 # copy presets
+mkdir $PKG/etc/fonts/conf.avail.infinality
 cp -r $INFINALITY_BUNDLE/fontconfig_patches/{combi,free,ms} \
   $PKG/etc/fonts/conf.avail.infinality
 
