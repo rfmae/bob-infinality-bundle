@@ -3,8 +3,8 @@
 set -e
 
 # To have our own output directory (upgradepkg)
-export TMP=/tmp/bob-infinality-bundle
-rm -rf $TMP
+export TMP=/tmp
+#rm -rf $TMP
 
 # Number of CPUs + 1
 export NUMJOBS=$(expr $(lscpu | grep -E '^CPU\(s\):' | xargs | cut -d ' ' -f 2) + 1)
