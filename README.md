@@ -1,6 +1,8 @@
+**Apparently the end of infinality-bundle has come! If you haven't already, you might want to read this: https://gist.github.com/cryzed/e002e7057435f02cc7894b9e748c5671**
+
 # bob-infinality-bundle
 
-These are SlackBuilds & patches to rebuild some official packages in Slackware Linux,
+These are SlackBuilds & patches to rebuild some official packages in Slackware 14.2 Linux,
 are in test so be careful with the result in your system.
 
 ## infinality-bundle project
