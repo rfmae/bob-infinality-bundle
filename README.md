@@ -34,8 +34,8 @@ issue.
 
 ## Notes
 
-*  At this moment these SlackBuilds are from and for **slackware64-current**, but they also
-   work with **slackware-current**.
+*  At this moment these SlackBuilds are from and for **slackware64-14.2**, but they also
+   work with **slackware-14.2**.
 *  I tried to make the minimal modificactions to the originals Slackbuilds.
 *  There is not need to select a type of font rendering (Windows, Apple or Ubuntu)
    since the *"aim of infinality-bundle is to make use of the vast potential hidden
